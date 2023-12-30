@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "737050282418",
+    "firebase_url": "https://earthgo-3aa75-default-rtdb.firebaseio.com",
+    "project_id": "earthgo-3aa75",
+    "storage_bucket": "earthgo-3aa75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737050282418:android:a8a9dd08f07db1226dbcab",
+        "android_client_info": {
+          "package_name": "com.example.goe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737050282418-q65dcuiibur4iena8pk88set6i60f1in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0TZG1rqzbDzJTp42CcwSrEMFiZ7YFPTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737050282418-q65dcuiibur4iena8pk88set6i60f1in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737050282418:android:352462f7aa48b5676dbcab",
+        "android_client_info": {
+          "package_name": "com.example.goe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737050282418-q65dcuiibur4iena8pk88set6i60f1in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO7weU3yWhq7nwAQ5-yGRY3r2JhEe02pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737050282418-q65dcuiibur4iena8pk88set6i60f1in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
